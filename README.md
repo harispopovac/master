@@ -1,6 +1,6 @@
-# AraBERT Qur'an Translation Model
+# AraBERT Qur'an Evaluation Model
 
-This project fine-tunes AraBERT on the Qur'an dataset for translation tasks and evaluates the model using BLEU, ROUGE, and F1 metrics.
+This project fine-tunes AraBERT on the Qur'an dataset for analysis tasks and evaluates the model using BLEU, ROUGE, and F1 metrics.
 
 ## Setup
 
